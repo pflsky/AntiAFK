@@ -27,10 +27,11 @@ public class minecraft {
         switch(security) {
             case "high": r.delay(5000);
                 System.out.println("bot starting in 5 seconds"); new high();
-            break;
-            case "medum": new medium();
-            break;
-            case "low": new low();
+                break;
+            case "medum": r.delay(5000);
+                System.out.println("bot starting in 5 seconds"); new medium();
+                break;
+            case "low": r.delay(5000);
             break;
             default: System.out.println("that is not a level of security, try again");
             new minecraft();
