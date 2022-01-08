@@ -101,8 +101,6 @@ public class minecraft {
         public void changeY() {
             randomY = random.nextInt(500);
         }
-
-
     }
 
     public class medium {
@@ -142,11 +140,39 @@ public class minecraft {
         }
 
         public void changeRandom() {
-            randomNumber = random.nextInt(6);
+            randomNumber = random.nextInt(8);
         }
     }
 
+    public class low {
 
+        Random random = new Random();
+        int randomNumber;
 
+        public low() {
 
+            changeRandom();
+
+            switch(randomNumber) {
+                case 1: r.keyPress(KeyEvent.VK_W);
+                r.keyRelease(KeyEvent.VK_W);
+                break;
+                case 2: r.keyPress(KeyEvent.VK_A);
+                r.keyRelease(KeyEvent.VK_A);
+                break;
+                case 3: r.keyPress(KeyEvent.VK_S);
+                r.keyRelease(KeyEvent.VK_S);
+                break;
+                case 4: r.keyPress(KeyEvent.VK_D);
+                r.keyRelease(KeyEvent.VK_D);
+                break;
+            }
+            r.delay(1000);
+            new low();
+        }
+
+        public void changeRandom() {
+            randomNumber = random.nextInt(5);
+        }
+    }
 }
