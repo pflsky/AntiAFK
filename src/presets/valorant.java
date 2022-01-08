@@ -51,7 +51,7 @@ public class valorant {
             case 8: r.mousePress(KeyEvent.BUTTON2_DOWN_MASK);
                 r.mouseRelease(KeyEvent.BUTTON2_DOWN_MASK);
                 break;
-            case 9: r.mouseWheel(5);
+            case 9: r.mouseWheel(randomNumber);
                 break;
             case 10: r.mouseMove(randomX,randomY);
                 break;
