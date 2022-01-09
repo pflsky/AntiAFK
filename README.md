@@ -6,7 +6,7 @@ Gui mode coming soon...
 
 # Installation
 
-1. Install java 17: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
+1. [Install](https://github.com/pflsky/AntiAFK/releases) Java 17.
 2. Download latest release
 
 # Usage
