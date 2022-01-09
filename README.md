@@ -6,8 +6,8 @@ Gui mode coming soon...
 
 # Installation
 
-1. [Install](https://github.com/pflsky/AntiAFK/releases) Java 17.
-2. Download latest release
+1. [Install](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) Java 17.
+2. [Download](https://github.com/pflsky/AntiAFK/releases) latest release of the AntiAFK bot.
 
 # Usage
 
