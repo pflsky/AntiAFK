@@ -11,4 +11,4 @@ Gui mode coming soon...
 
 # Usage
 
-1. Double click .jar file if release is above version 1.1, however if not, run it through cmd using this command: `java -jar AntiAFK.jar`
+1. Double click .jar file if release is above version 1.2 or over, however if not, run it through cmd using this command: `java -jar AntiAFK.jar`
