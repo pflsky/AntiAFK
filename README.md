@@ -17,4 +17,4 @@ Gui mode coming soon...
 5. Delete path, and type cmd, and press enter. This will open a cmd window in the directory of the AntiAFK bot release. ![](https://i.ibb.co/bKyRT6M/image-2022-01-10-160840.png)
 6. Once you are in cmd, type `java -jar AntiAFK.jar` (Or whatever you have named the file)
 
-If you do not run this through the console, and double click the jar, you may not be able to configure any bots, as all of the configuring is done in the console. It is still able to be run though, and if you dont want to configure any of the bots and leave them as default, double clicking the file is no problem.
+If you do not run this through the console, and double click the jar, you may not be able to configure the bots, as most of the configuring is done in the console. It is still able to be run though, and if you dont want to configure any of the bots and leave them as default, double clicking the file is no problem.
