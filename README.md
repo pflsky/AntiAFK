@@ -14,7 +14,7 @@ Gui mode coming soon...
 1. Go into file explorer.
 2. Locate AntiAFK bot release.
 3. Click the empty space at the end of the File Path. It should look like this: ![](https://i.ibb.co/L85Qwz7/image-2022-01-09-211313.png)
-5. Delete path, and type cmd, and press enter. This will open a cmd window in the directory of the AntiAFK bot release.
+5. Delete path, and type cmd, and press enter. This will open a cmd window in the directory of the AntiAFK bot release. ![](https://i.ibb.co/bKyRT6M/image-2022-01-10-160840.png)
 6. Once you are in cmd, type `java -jar AntiAFK.jar` (Or whatever you have named the file)
 
 This will open the AntiAFK jar in the console.
