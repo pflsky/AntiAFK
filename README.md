@@ -18,4 +18,3 @@ Gui mode coming soon...
 ![](https://i.ibb.co/bKyRT6M/image-2022-01-10-160840.png)
 6. Once you are in cmd, type `java -jar AntiAFK.jar` (Or whatever you have named the file)
 
-
